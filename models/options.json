@@ -1,0 +1,68 @@
+{
+  "Vehicle_condition": [
+    "0",
+    "1",
+    "2",
+    "3"
+  ],
+  "multiple_deliveries": [
+    "0",
+    "1",
+    "2",
+    "3"
+  ],
+  "is_weekend": [
+    "0",
+    "1"
+  ],
+  "day_of_week": [
+    "Friday",
+    "Monday",
+    "Saturday",
+    "Sunday",
+    "Thursday",
+    "Tuesday",
+    "Wednesday"
+  ],
+  "Weather_conditions": [
+    "Cloudy",
+    "Fog",
+    "Sandstorms",
+    "Stormy",
+    "Sunny",
+    "Windy"
+  ],
+  "Road_traffic_density": [
+    "High",
+    "Jam",
+    "Low",
+    "Medium"
+  ],
+  "Type_of_order": [
+    "Buffet",
+    "Drinks",
+    "Meal",
+    "Snack"
+  ],
+  "Type_of_vehicle": [
+    "bicycle",
+    "electric_scooter",
+    "motorcycle",
+    "scooter"
+  ],
+  "Festival": [
+    "No",
+    "Yes"
+  ],
+  "City": [
+    "Metropolitian",
+    "Semi-Urban",
+    "Urban"
+  ],
+  "mae": 3.16,
+  "age_range": [
+    15,
+    50
+  ],
+  "dist_max": 21.0
+}
